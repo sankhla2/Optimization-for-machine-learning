@@ -1,1 +1,1 @@
-# Optimization-for-machine-learning
+# Optimization-in-machine-learning
